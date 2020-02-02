@@ -21,4 +21,4 @@ This function is only use to clear the text what user inputted in the boxes.  Th
 **SEARCH MATERIAL**:  
 Due to the technical issues, it only allow user to search the material in one element. Which means only input one of material Name, Author, Publisher, or Date of Publish to search.  
 The type element will not works in this function.  
-Click again without input, to return full list.
+Click again without input to return full list.
