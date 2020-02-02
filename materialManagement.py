@@ -111,7 +111,7 @@ def helpCommand():
                                      "This button will not clear any data it stored.\n\nSEARCH MATERIAL:\n"
                                      "Due to the technical issues, it only allow user to search the material in one element.\n"
                                      "Which means only input one of material Name, Author, Publisher, or Date of Publish to search.\n"
-                                     "The type element will not works in this function.\nClick again without input, to return full list")
+                                     "The type element will not works in this function.\nClick again without input to return full list")
 
 
 # create a window and named Material Management
